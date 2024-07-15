@@ -1,5 +1,8 @@
-## Hi there 👋
+<div align="center">
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ThejavanthRB&theme=dark&border_radius=6)](https://git.io/streak-stats)
+
+</div>
 <!--
 **ThejavanthRB/ThejavanthRB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
